@@ -3,6 +3,7 @@
 I am a passionate BSc CS student at the University of Debrecen, driven by my passion for programming. 
 
 ![MartinezHrcz's Stats](https://github-readme-stats.vercel.app/api?username=MartinezHrcz&theme=cobalt&show_icons=true&hide_border=false&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinezHrcz&layout=compact)
 
 ## **About me:**
 ---
