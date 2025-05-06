@@ -13,9 +13,10 @@ Passion outside of programming: Fitness
 
 ## **I’m currently working on:**
 ---
-1.My finance app (ExpenseAppWithJavaFx)
 
-2.Webscraper app 
+1.Mechanic web app
+
+2.Javafx ball game
 
 ## **My tech skills:**
 ---
@@ -23,11 +24,12 @@ Passion outside of programming: Fitness
 
 ## **🌱 I’m currently learning:**
 ---
-Java + JavaFX: Finances manager desktop app 
 
-HTML + CSS + JS + sql: Web development
+Java + JavaFX: creating desktop applications
 
-C# : University course work
+Python: Simple Ai (university course)
+
+C# + Blazor + databases : Mechanic web app  
 
 📫 How to contact me:
 
