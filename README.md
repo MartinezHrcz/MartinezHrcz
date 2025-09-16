@@ -24,12 +24,10 @@ Passion outside of programming: Fitness
 
 ## **🌱 I’m currently learning:**
 ---
+Full stack web development (Thesis)
+Java + React + Postgres: fitness social media and fitness tracking utilities 
 
-Java + JavaFX: creating desktop applications
-
-Python: Simple Ai (university course)
-
-C# + Blazor + databases : Mechanic web app  
+Python: Simple Ai (university course)  
 
 📫 How to contact me:
 
