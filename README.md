@@ -13,10 +13,7 @@ Passion outside of programming: Fitness
 
 ## **I’m currently working on:**
 ---
-
-1.Mechanic web app
-
-2.Javafx ball game
+Fitness journey web application
 
 ## **My tech skills:**
 ---
@@ -26,8 +23,6 @@ Passion outside of programming: Fitness
 ---
 Full stack web development (Thesis)
 Java + React + Postgres: fitness social media and fitness tracking utilities 
-
-Python: Simple Ai (university course)  
 
 📫 How to contact me:
 
