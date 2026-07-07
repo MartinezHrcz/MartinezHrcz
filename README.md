@@ -7,10 +7,6 @@ I'm currently working as a Software Engineer at Ni Hungary.
 
 Passion outside of programming: Fitness
 
-## **I’m currently working on:**
----
-Fitness journey web application
-
 ## **My tech skills:**
 ---
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,cs,python,html,css,js,postgres,maven,git&perline=4)](https://skillicons.dev)
